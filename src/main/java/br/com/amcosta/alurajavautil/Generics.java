@@ -1,7 +1,5 @@
 package br.com.amcosta.alurajavautil;
 
-import br.com.amcosta.bytebankheranca.Conta;
-import br.com.amcosta.bytebankheranca.ContaCorrente;
 
 import java.util.ArrayList;
 

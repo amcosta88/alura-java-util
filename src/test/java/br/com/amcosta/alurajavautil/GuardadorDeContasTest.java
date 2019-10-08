@@ -1,7 +1,5 @@
 package br.com.amcosta.alurajavautil;
 
-import br.com.amcosta.bytebankheranca.ContaCorrente;
-import br.com.amcosta.bytebankheranca.ContaPoupanca;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
