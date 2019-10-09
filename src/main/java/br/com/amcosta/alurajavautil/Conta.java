@@ -37,6 +37,14 @@ public abstract class Conta {
         return this.saldo;
     }
 
+    public int getAgencia() {
+        return this.agencia;
+    }
+
+    public int getConta() {
+        return this.conta;
+    }
+
     @Override
     public String toString() {
         return String.format("Agência: %d, Conta: %d", this.agencia, this.conta);
