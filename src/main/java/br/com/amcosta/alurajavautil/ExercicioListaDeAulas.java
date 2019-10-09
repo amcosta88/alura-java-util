@@ -26,12 +26,21 @@ public class ExercicioListaDeAulas {
 
         Collections.rotate(aulas, 1);
         imprimirLista(aulas, "Lista rotacionada");
+
+        List<Integer> numeros = new ArrayList<>(Arrays.asList(3, 8, 9, 4, 10, 3, 1));
+        numeros.sort(null);
+
+        for (Integer numero : numeros) {
+            System.out.println(numero);
+        }
+
+        numeros.forEach(numero -> { System.out.print(numero + " "); });
     }
 
     public static void imprimirLista(List<Aula> lista, String msg) {
-        System.out.println("");
+        System.out.println();
         System.out.println(msg);
-        System.out.println("");
+        System.out.println();
 
         for (Aula aula : lista) {
             System.out.println(aula);
