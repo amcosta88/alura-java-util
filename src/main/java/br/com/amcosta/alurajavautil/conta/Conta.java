@@ -1,4 +1,4 @@
-package br.com.amcosta.alurajavautil;
+package br.com.amcosta.alurajavautil.conta;
 
 public abstract class Conta {
     private int agencia;

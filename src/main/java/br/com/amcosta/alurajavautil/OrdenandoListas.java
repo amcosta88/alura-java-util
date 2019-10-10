@@ -1,6 +1,8 @@
 package br.com.amcosta.alurajavautil;
 
 import br.com.amcosta.alurajavautil.Comparator.CompararPelaContaComparator;
+import br.com.amcosta.alurajavautil.conta.Conta;
+import br.com.amcosta.alurajavautil.conta.ContaCorrente;
 
 import java.util.ArrayList;
 import java.util.List;

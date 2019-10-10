@@ -1,6 +1,6 @@
 package br.com.amcosta.alurajavautil.Comparator;
 
-import br.com.amcosta.alurajavautil.Conta;
+import br.com.amcosta.alurajavautil.conta.Conta;
 
 import java.util.Comparator;
 

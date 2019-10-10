@@ -1,5 +1,7 @@
 package br.com.amcosta.alurajavautil;
 
+import br.com.amcosta.alurajavautil.conta.ContaCorrente;
+import br.com.amcosta.alurajavautil.conta.ContaPoupanca;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;

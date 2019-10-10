@@ -1,6 +1,9 @@
 package br.com.amcosta.alurajavautil;
 
 
+import br.com.amcosta.alurajavautil.conta.Conta;
+import br.com.amcosta.alurajavautil.conta.ContaCorrente;
+
 import java.util.ArrayList;
 
 public class Generics {

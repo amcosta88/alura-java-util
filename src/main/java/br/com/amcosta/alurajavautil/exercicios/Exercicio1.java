@@ -1,4 +1,6 @@
-package br.com.amcosta.alurajavautil;
+package br.com.amcosta.alurajavautil.exercicios;
+
+import br.com.amcosta.alurajavautil.Cliente;
 
 public class Exercicio1 {
     public static void main(String[] args) {

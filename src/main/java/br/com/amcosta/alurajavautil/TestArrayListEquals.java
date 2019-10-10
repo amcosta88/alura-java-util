@@ -1,5 +1,9 @@
 package br.com.amcosta.alurajavautil;
 
+import br.com.amcosta.alurajavautil.conta.Conta;
+import br.com.amcosta.alurajavautil.conta.ContaCorrente;
+import br.com.amcosta.alurajavautil.conta.ContaPoupanca;
+
 import java.util.ArrayList;
 import java.util.LinkedList;
 import java.util.List;

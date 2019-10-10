@@ -1,4 +1,4 @@
-package br.com.amcosta.alurajavautil;
+package br.com.amcosta.alurajavautil.exercicios;
 
 import java.util.ArrayList;
 import java.util.Arrays;
