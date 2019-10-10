@@ -1,5 +1,7 @@
 package br.com.amcosta.alurajavautil.exercicios;
 
+import br.com.amcosta.alurajavautil.Aula;
+
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Collections;
